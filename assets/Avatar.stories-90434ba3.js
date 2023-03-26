@@ -1,0 +1,2 @@
+import{A as t}from"./index-983ca8c5.js";import"./index-646b6cde.js";import"./iframe-93e3efc3.js";import"./index-58e3e063.js";import"./jsx-runtime-b052e356.js";const e={title:"Data display/Avatar",component:t,args:{src:"https://github.com/guilhermeismael.png",alt:"Guilherme Ismael"},argTypes:{src:{control:{type:"text"}}}},m={},l={args:{src:void 0}},p=["Primary","WithFallback"];export{m as Primary,l as WithFallback,p as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories-90434ba3.js.map
